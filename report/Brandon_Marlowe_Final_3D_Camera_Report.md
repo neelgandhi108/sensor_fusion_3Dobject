@@ -1,8 +1,4 @@
----
-author: Brandon Marlowe
-date: 2019-10-10
-title: Udacity 3D-Camera Final Project
----
+
 
 # FP.1 : Match 3D Objects
 
@@ -62,4 +58,4 @@ type.
 
 A spreadsheet containing the final results can be found here:
 
-`report/Brandon_Marlowe_Final_3D_Camera_Project.csv`.
+`report/Neel_Gandhi.csv`.
